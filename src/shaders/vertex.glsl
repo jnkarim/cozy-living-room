@@ -1,0 +1,1 @@
+// Simple vertex shader placeholder

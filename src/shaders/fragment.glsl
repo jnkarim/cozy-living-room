@@ -1,0 +1,1 @@
+// Simple fragment shader placeholder
